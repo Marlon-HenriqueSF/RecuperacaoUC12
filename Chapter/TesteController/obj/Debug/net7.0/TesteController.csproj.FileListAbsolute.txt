@@ -1,0 +1,5 @@
+F:\Chapter-main\Chapter\TesteController\obj\Debug\net7.0\TesteController.csproj.AssemblyReference.cache
+F:\Chapter-main\Chapter\TesteController\obj\Debug\net7.0\TesteController.GeneratedMSBuildEditorConfig.editorconfig
+F:\Chapter-main\Chapter\TesteController\obj\Debug\net7.0\TesteController.AssemblyInfoInputs.cache
+F:\Chapter-main\Chapter\TesteController\obj\Debug\net7.0\TesteController.AssemblyInfo.cs
+F:\Chapter-main\Chapter\TesteController\obj\Debug\net7.0\TesteController.csproj.CoreCompileInputs.cache
