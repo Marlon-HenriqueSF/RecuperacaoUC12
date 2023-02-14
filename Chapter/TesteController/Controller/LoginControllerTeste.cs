@@ -57,7 +57,7 @@ namespace TesteController.Controller
 
             var controller = new LoginController(repositoryEspelhado.Object);
 
-            string issueValido = "chapter.webapi";
+            string IssuerValidar = "chapter.webapi";
 
             OkObjectResult resultado = (OkObjectResult)controller.Login(dadosUsuario);
 
@@ -67,7 +67,7 @@ namespace TesteController.Controller
 
             var tokenJwt = jwtHandler.ReadJwtToken(tokenString);
 
-            Assert.Equal(IssuerValido, tokenJwt.Issuer);
+            Assert.Equal(IssuerValidar, tokenJwt.Issuer);
 
         }
 
